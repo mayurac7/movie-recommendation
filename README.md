@@ -1,3 +1,5 @@
 # movie-recommendation
 
 A content based movie recommender system using cosine similarity
+
+Dataset link:- https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGlodkpidl9PaHhmM0Y4S28xMkQwMU90UHZSZ3xBQ3Jtc0tsMGlBRUNTSVZob1hyb0Z0aFp1Y0ZlcUNEQmpmNlBzRXdweHd2ejVlSEpVazJOZHpqNkoxVS1rTWdZN0VlQi10eDVZdnBnWVprNlpQMmEwSHhBc1JoMUo4cXpIeWc5QTNNRnBHbHp1emhhTlpSSDFwWQ&q=https%3A%2F%2Fwww.kaggle.com%2Ftmdb%2Ftmdb-movie-metadata%3Fselect%3Dtmdb_5000_movies.csv
